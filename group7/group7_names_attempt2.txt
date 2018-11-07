@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Rebekah yellow, Jeff purple, Justin indigo v 2
+=======
 Rebekah turqoise Jeff violet Justin v 2
+>>>>>>> fb0078fa38d9f2a624f0a6efa3d79865e3e9601c
